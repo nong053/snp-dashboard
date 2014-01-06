@@ -1,0 +1,12 @@
+2556-11-07 13:41:12,177 [main] WARN  com.vaannila.helloworld.HelloWorld - Sample warn message
+2556-11-07 13:41:12,178 [main] ERROR com.vaannila.helloworld.HelloWorld - Sample error message
+2556-11-07 13:41:12,179 [main] FATAL com.vaannila.helloworld.HelloWorld - Sample fatal message
+2556-11-07 13:41:55,970 [main] WARN  com.vaannila.helloworld.HelloWorld - Sample warn message
+2556-11-07 13:41:55,971 [main] ERROR com.vaannila.helloworld.HelloWorld - Sample error message
+2556-11-07 13:41:55,971 [main] FATAL com.vaannila.helloworld.HelloWorld - Sample fatal message
+2556-11-07 13:42:27,120 [main] WARN  com.vaannila.helloworld.HelloWorld - Sample warn message
+2556-11-07 13:42:27,121 [main] ERROR com.vaannila.helloworld.HelloWorld - Sample error message
+2556-11-07 13:42:27,122 [main] FATAL com.vaannila.helloworld.HelloWorld - Sample fatal message
+2556-11-07 13:43:03,690 [main] WARN  com.vaannila.helloworld.HelloWorld - Sample warn message
+2556-11-07 13:43:03,691 [main] ERROR com.vaannila.helloworld.HelloWorld - Sample error message
+2556-11-07 13:43:03,691 [main] FATAL com.vaannila.helloworld.HelloWorld - Sample fatal message
